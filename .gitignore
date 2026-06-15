@@ -1,0 +1,25 @@
+# Python bytecode & caches
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+.venv/
+
+# Test & coverage results
+htmlcov/
+.coverage
+.coverage.*
+
+# Logs
+logs/
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# Distributions
+build/
+dist/
+*.egg-info/
